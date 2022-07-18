@@ -19,8 +19,13 @@
 
 ![image](https://user-images.githubusercontent.com/58034992/179582389-9ba6ea04-e20b-445c-9218-b260c12f58c6.png)
 
-## Delete
+## Marking as Done
+
 ![image](https://user-images.githubusercontent.com/58034992/179582492-0ab8c884-a66c-44bf-9cdd-a5b374840025.png)
+
+## After Deletion
+
+![image](https://user-images.githubusercontent.com/58034992/179583106-0e5b6ec9-d38d-4080-9885-7f85f9ec79c1.png)
 
 
 
