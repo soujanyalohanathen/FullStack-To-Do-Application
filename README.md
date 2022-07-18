@@ -1,4 +1,8 @@
-## To Run the Project Use "yarn dev" and route to http://localhost:3000 
+## To Run the Project 
+1. Download the code 
+2. Run the project useing yarn dev
+3. Route to http://localhost:3000 
+
 
 ## Signup Page 
 
